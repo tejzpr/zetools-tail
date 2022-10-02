@@ -6,7 +6,7 @@ import (
 
 	"github.com/tejzpr/zetools/commands"
 
-	cli "github.com/tejzpr/zcli/v2"
+	cli "github.com/urfave/cli/v2"
 )
 
 func Test_tailCommand_Name(t *testing.T) {

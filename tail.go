@@ -8,7 +8,7 @@ import (
 	"github.com/tejzpr/zetools/commands"
 
 	"github.com/nxadm/tail"
-	cli "github.com/tejzpr/zcli/v2"
+	cli "github.com/urfave/cli/v2"
 )
 
 func init() {
