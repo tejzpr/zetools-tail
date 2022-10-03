@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/nxadm/tail v1.4.8
-	github.com/tejzpr/zetools v1.0.3
+	github.com/tejzpr/commands-zetools v1.0.1
 	github.com/urfave/cli/v2 v2.17.1
 )
 

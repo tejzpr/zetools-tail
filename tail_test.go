@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/tejzpr/zetools/commands"
+	"github.com/tejzpr/commands-zetools"
 
 	cli "github.com/urfave/cli/v2"
 )

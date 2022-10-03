@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/tejzpr/zetools/commands"
+	"github.com/tejzpr/commands-zetools"
 
 	"github.com/nxadm/tail"
 	cli "github.com/urfave/cli/v2"
